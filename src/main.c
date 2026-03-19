@@ -6,6 +6,6 @@ int main(){
 	long long int ans;
 	scanf("%d",&n);
 	ans=factorial(n);
-	printf("%d",ans);
+	printf("%lld",ans);
 	return 0;
 }
