@@ -8,4 +8,5 @@ int main(){
 	ans=factorial(n);
 	printf("%lld",ans);
 	return 0;
+	//I'm wzh!
 }
